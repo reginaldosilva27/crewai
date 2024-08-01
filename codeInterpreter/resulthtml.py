@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Configurações
 host = 'https://adb-3234279603552420.0.azuredatabricks.net'
-token = 'dapi376c2d05c0e32672b3bdee3660416e74-3'
+token = 'xxxxx'
 headers = {'Authorization': f'Bearer {token}'}
 
 # Função para obter a lista de jobs
