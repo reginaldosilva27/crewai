@@ -5,7 +5,7 @@ from tabulate import tabulate
 
 # Databricks API details
 HOST = 'adb-3234279603552420.0.azuredatabricks.net'
-TOKEN = 'dapi376c2d05c0e32672b3bdee3660416e74-3'
+TOKEN = 'xxxxxx'
 HEADERS = {'Authorization': f'Bearer {TOKEN}'}
 
 def fetch_jobs():
