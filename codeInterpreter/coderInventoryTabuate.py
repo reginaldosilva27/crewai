@@ -45,7 +45,7 @@ crew = Crew(
 )
 
 # Kick off the senior crew
-result = crew.kickoff(inputs={'HOST': 'adb-3234279603552420.0.azuredatabricks.net', 'TOKEN': 'dapi376c2d05c0e32672b3bdee3660416e74-3'})
+result = crew.kickoff(inputs={'HOST': 'adb-3234279603552420.0.azuredatabricks.net', 'TOKEN': 'xxxxxx'})
 print(result)
 
 
